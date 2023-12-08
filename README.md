@@ -1,6 +1,6 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=rootnure&label=Total%20Visits&color=0e75b6&style=flat" alt="rootnure" /> </span> <br> <span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="rootnure" /> </span> <br>
 
-<p style="font-size: 32px; font-weight: 700;">Hi there,</p> <br /> <br />
+<p style="font-size: 32px; font-weight: 700;">Hi there,</p>
 <p align="center">
   <a href="https://github.com/rootnure">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;B.Sc.+in+CSE;&center=true&width=250&height=50" alt="Md Nure Alom's GitHub Contribution"/>
