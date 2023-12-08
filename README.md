@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/rootnure">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootnure&theme=onedark&utcOffset=6" alt="rootnure" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootnure&theme=onedark&utcOffset=6" alt="rootnure" width="60%" />
   </a>
 </p>
 
