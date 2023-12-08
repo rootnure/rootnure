@@ -14,5 +14,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" height="192px" width="49.5%" />
   </a> <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=8&theme=onedark" alt="rootnure" /> <br> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark" width="90%" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark" width="65%" height="192px" /> <br>
 </div>
