@@ -8,9 +8,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" /> <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark" alt="rootnure" /> <br> <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=6&theme=onedark" alt="rootnure" /> <br> <br>
+  <a href="https://github.com/rootnure">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" height="192px" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark" alt="rootnure" height="192px" width="49.5%" />
+  </a> <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=8&theme=onedark" alt="rootnure" /> <br> <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootnure&theme=onedark" alt="rootnure" /> <br> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" width="75%"/> <br>
 </div>
