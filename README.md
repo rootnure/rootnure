@@ -1,6 +1,6 @@
 <span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="rootnure" /> </span> <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Md Nure Alom</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,</h1>
 <p align="center">
   <a href="https://github.com/rootnure">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Md+Nure+Alom+(rootnure);I+am+a+Jr.+MERN+Stack+Developer;I've+Completed+my+B.Sc.+in+CSE;&center=true&width=500&height=50" alt="Md Nure Alom's GitHub Contribution"/>
@@ -11,11 +11,11 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark&hide_border=true" />
 </p>
 <p align="center">
   <a href="https://github.com/rootnure">
-    <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark" alt="rootnure" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="rootnure" />
   </a>
 </p>
 <p align="center">
@@ -59,6 +59,18 @@
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/node.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/express.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/mongo.png"/>
+</p>
+
+<br>
+
+## ⏰ Active Time
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/rootnure">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootnure&theme=onedark&utcOffset=6" alt="rootnure" />
+  </a>
 </p>
 
 <br>
