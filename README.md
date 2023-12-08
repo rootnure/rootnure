@@ -8,11 +8,24 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootnure&theme=onedark" alt="rootnure" /> <br> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark" alt="rootnure" height="192px" width="65%" />
+<!-- Most Used Languages -->
   <a href="https://github.com/rootnure">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" height="192px" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark" width="49.5%" height="192px" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" width="65%" />
   </a> <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=4&theme=onedark" alt="rootnure" /> <br> <br>
+<!--   github-readme-stats -->
+  <a href="https://github.com/rootnure">
+    <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark" alt="rootnure" width="65%" />
+  </a> <br><br>
+<!--   github-profile-summary-cards -->
+  <a href="https://github.com/rootnure">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootnure&theme=onedark" alt="rootnure" width="65%" /> <br> <br>
+  </a> <br><br>
+<!--   github-profile-trophy -->
+  <a href="https://github.com/rootnure">
+  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=6&theme=onedark" alt="rootnure" /> <br> <br>
+  </a> <br><br>
+<!--   github-readme-streak-stats -->
+  <a href="https://github.com/rootnure">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark" width="65%" /> <br>
+  </a> <br><br>
 </div>
