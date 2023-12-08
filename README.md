@@ -1,6 +1,6 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=rootnure&label=Total%20Visits&color=0e75b6&style=flat" alt="rootnure" /> </span> <br> <span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="rootnure" /> </span> <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Md Nure Alom</h1>
 <p align="center">
   <a href="https://github.com/rootnure">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+MERN+Stack+Developer;Completed+my+B.Sc.+in+CSE;&center=true&width=350&height=50" alt="Md Nure Alom's GitHub Contribution"/>
