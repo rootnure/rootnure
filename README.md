@@ -1,10 +1,11 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=rootnure&label=Total%20Visits&color=0e75b6&style=flat" alt="rootnure" /> </span> <br> <span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="rootnure" /> </span> <br>
 
+<p style="font-size: 32px; font-weight: 700;">Hi there,</p> <br /> <br />
 <p align="center">
   <a href="https://github.com/rootnure">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There;B.Sc.+in+Computer+Science+and+Engineering;MERN+Stack+Web+Developer;&center=true&width=500&height=50" alt="Md Nure Alom's GitHub Contribution"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.+in+CSE;MERN+Stack+Developer;&center=true&width=500&height=50" alt="Md Nure Alom's GitHub Contribution"/>
   </a>
-</p>
+</p> <br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" /> <br> <br>
