@@ -42,13 +42,13 @@
 
 <p align="center"><i>Programming Languages</i></p>
 <p align="center">
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/HTML.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/css.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/JavaScript.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/c.png"/>
 </p>
 <p align="center"><i>Front-end Technologies (Web)</i></p>
 <p align="center">
+<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/HTML.png"/>
+<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/css.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/react.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/tailwind.png"/>
 <img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Bootsrap.png"/>
