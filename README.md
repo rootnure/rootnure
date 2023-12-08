@@ -5,7 +5,7 @@
   <a href="https://github.com/rootnure">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;B.Sc.+in+CSE;&center=true&width=250&height=50" alt="Md Nure Alom's GitHub Contribution"/>
   </a>
-</p> <br />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootnure&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rootnure" /> <br> <br>
