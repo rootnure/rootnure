@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/rootnure">
-  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=6&theme=onedark" alt="rootnure" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=1&column=4&theme=onedark" alt="rootnure" />
   </a>
 </p> <br>
 
