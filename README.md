@@ -3,7 +3,7 @@
 <p style="font-size: 32px; font-weight: 700;">Hi there,</p> <br /> <br />
 <p align="center">
   <a href="https://github.com/rootnure">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.+in+CSE;MERN+Stack+Developer;&center=true&width=500&height=50" alt="Md Nure Alom's GitHub Contribution"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;B.Sc.+in+CSE;&center=true&width=250&height=50" alt="Md Nure Alom's GitHub Contribution"/>
   </a>
 </p> <br />
 
