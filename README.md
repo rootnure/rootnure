@@ -30,7 +30,7 @@
 
 <br />
 
-[<p align="center"><img width="150" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rootnure/) <br>
+[<p align="center"><img width="150" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rootnure) <br>
 [<img width="150" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Facebook.png">](https://www.facebook.com/rootnure)<br>
 [<img width="150" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/rootnure)
 
