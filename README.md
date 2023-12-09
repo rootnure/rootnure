@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/rootnure">
-    <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /><br>
+    <img width="100%" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/cover.gif" alt="rootnure" /><br>
   </a>
 </p>
 
@@ -37,13 +37,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rootnure">
-    <img height="30" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Linkedin.png">
+    <img height="30" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Linkedin.png">
   </a>
   <a herf="https://www.facebook.com/rootnure">
-    <img height="30" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Facebook.png">
+    <img height="30" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Facebook.png">
   </a>
   <a href="https://twitter.com/rootnure">
-    <img height="30" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Twitter.png">
+    <img height="30" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Twitter.png">
   </a>
 </p>
 <br />
@@ -54,23 +54,23 @@
 
 <p align="center"><i>Programming Languages</i></p>
 <p align="center">
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/JavaScript.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/c.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/JavaScript.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/c.png"/>
 </p>
 <p align="center"><i>Front-end Technologies (Web)</i></p>
 <p align="center">
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/HTML.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/css.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/react.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/tailwind.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/Bootsrap.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/firebase.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/HTML.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/css.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/react.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/tailwind.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Bootsrap.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/firebase.png"/>
 </p>
 <p align="center"><i>Backend Technologies (Web)</i></p>
 <p align="center">
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/node.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/express.png"/>
-<img height="50" src="https://github.com/rootnure/rootnure/blob/main/images/icons/mongo.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/node.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/express.png"/>
+<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/mongo.png"/>
 </p>
 
 <br>
