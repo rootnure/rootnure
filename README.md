@@ -96,7 +96,7 @@
   <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/github-api.png" alt="GitHub"/>
   <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vercel.png" alt="Vercel"/>
   <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/surge-logo.png" alt="Surge"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/code-blocks.png" alt="Code::Blocks"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/code-blocks.jpg" alt="Code::Blocks"/>
 </p>
 <p align="center"><i>Operating System</i></p>
 <p align="center">
