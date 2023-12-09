@@ -78,6 +78,7 @@
 
 <p align="center"><i>Programming Languages</i></p>
 <p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/PHP.png" alt="PHP"/>
   <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/python-original.png" alt="Python"/>
   <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/java-original.png" alt="Java"/>
 </p>
