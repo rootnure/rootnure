@@ -54,23 +54,54 @@
 
 <p align="center"><i>Programming Languages</i></p>
 <p align="center">
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/JavaScript.png" alt="JavaScript"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/c.png" alt="C Programming"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/JavaScript.png" alt="JavaScript"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/c.png" alt="C Programming"/>
 </p>
 <p align="center"><i>Front-end Technologies (Web)</i></p>
 <p align="center">
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/HTML.png" alt="HTML5"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/css.png" alt="CSS3"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/react.png" alt="React"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/tailwind.png" alt="Tailwind"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Bootsrap.png" alt="Bootsrap"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/firebase.png" alt="Firebase"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/HTML.png" alt="HTML5"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/css.png" alt="CSS3"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/react.png" alt="React"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/tailwind.png" alt="Tailwind"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/firebase.png" alt="Firebase"/>
 </p>
 <p align="center"><i>Backend Technologies (Web)</i></p>
 <p align="center">
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/node.png" alt="Node"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/express.png" alt="Express"/>
-<img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/mongo.png" alt="MongoDB"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/node.png" alt="Node"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/express.png" alt="Express"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/mongo.png" alt="MongoDB"/>
+</p>
+
+<br>
+
+## 🔎 Familiar With
+
+<p align="center"><i>Programming Languages</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/python-original.png" alt="Python"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/java-original.png" alt="Java"/>
+</p>
+<p align="center"><i>Front-end Technology (Web)</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Bootsrap.png" alt="Bootsrap"/>
+</p>
+<p align="center"><i>Backend Technology (Web)</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/mysql.png" alt="MySQL"/>
+</p>
+<p align="center"><i>Software and Tools</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vs-code.png" alt="VS Code"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/git.png" alt="Git SCM"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/github-api.png" alt="GitHub"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vercel.png" alt="Vercel"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/surge-logo.png" alt="Surge"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/code-blocks.png" alt="Code::Blocks"/>
+</p>
+<p align="center"><i>Operating System</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/windows.png" alt="Windows"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/ubuntu.png" alt="Ubuntu"/>
 </p>
 
 <br>
