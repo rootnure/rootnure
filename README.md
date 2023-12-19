@@ -19,12 +19,12 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rootnure&theme=onedark&hide_border=true" alt="Md Nure Alom's GitHub State" />
 </p>
 <p align="center">
-  <a href="https://github.com/rootnure">
+  <a href="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=rootnure&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="Md. Nure Alom's GitHub Stats 2" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/rootnure">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootnure&theme=onedark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootnure&theme=onedark" alt="Md Nure Alom's GitHub Contributions Summary" />
   </a>
 </p>
@@ -112,7 +112,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/rootnure">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootnure&theme=onedark&utcOffset=6">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootnure&theme=onedark&utcOffset=6" alt="Md Nure Alom's Active Time in GitHub" width="55%" />
   </a>
 </p>
@@ -124,7 +124,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/rootnure">
+  <a href="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark">
   <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark" alt="Md Nure Alom's Github Trophies" width="65%" />
   </a>
 </p> <br>
