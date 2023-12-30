@@ -1,6 +1,6 @@
 <span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="Md Nure Alom's Working Time since September 2023" /> </span> <br>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,</h1>
+<h1 align="center">Assalamualaikum</h1>
 <p align="center">
   <a href="https://m.me/rootnure">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Md+Nure+Alom+(rootnure);I+am+a+Jr.+MERN+Stack+Developer;I've+Completed+my+B.Sc.+in+CSE;&center=true&width=500&height=50" alt="About Md Nure Alom"/>
