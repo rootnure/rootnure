@@ -125,7 +125,7 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark">
-  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark" alt="Md Nure Alom's Github Trophies" width="65%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark" alt="Md Nure Alom's Github Trophies" width="70%" />
   </a>
 </p> <br>
 
