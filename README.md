@@ -1,4 +1,6 @@
-<span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="Md Nure Alom's Working Time since September 2023" /> </span> <br>
+<span align="left"> <img src="https://wakatime.com/badge/user/ee7b64b3-9f22-4a99-ab48-97137dedd1c6.svg" alt="Md Nure Alom's Working Time since September 2023" /> </span>
+
+<br>
 
 <h1 align="center">Assalamualaikum</h1>
 <p align="center">
