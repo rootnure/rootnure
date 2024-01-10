@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 align="center">Assalamualaikum</h1>
+<h1 align="center">Assalamualaikum,</h1>
 <p align="center">
   <a href="https://m.me/rootnure">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Md+Nure+Alom+(rootnure);I+am+a+Jr.+MERN+Stack+Developer;I've+Completed+my+B.Sc.+in+CSE;&center=true&width=500&height=50" alt="About Md Nure Alom"/>
