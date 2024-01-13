@@ -131,6 +131,8 @@
   <a href="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark">
   <img src="https://github-profile-trophy.vercel.app/?username=rootnure&row=2&column=4&theme=onedark" alt="Md Nure Alom's Github Trophies" width="70%" />
   </a>
-</p> <br>
+</p>
+
+<br>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=rootnure&label=Total%20Visits&color=0e75b6&style=flat" alt="Md Nure Alom's GitHub Visitor Count" /> </span>
