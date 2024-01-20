@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/cover.gif" alt="Md Nure Alom GitHub Cover (Coding)" width="65%" />
   </a>
 </p>
-
+<hr />
 ## 📈 Current Stats
 
 <br />
