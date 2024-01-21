@@ -135,4 +135,6 @@
 
 <br>
 
+<hr />
+
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=rootnure&label=Total%20Visits&color=0e75b6&style=flat" alt="Md Nure Alom's GitHub Visitor Count" /> </span>
