@@ -49,6 +49,9 @@
     <img height="30" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Twitter.png" alt="Md Nure Alom's Twitter">
   </a>
 </p>
+<p align="center">
+  <img height="30" src="https://discord.c99.nl/widget/theme-3/1007732423531962498.png" alt="Md Nure Alom's Discord">
+</p>
 
 <br />
 
