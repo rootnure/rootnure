@@ -50,7 +50,7 @@
   </a>
 </p>
 <p align="center">
-  <img height="30" src="https://discord.c99.nl/widget/theme-3/1007732423531962498.png" alt="Md Nure Alom's Discord">
+  <img src="https://discord.c99.nl/widget/theme-3/1007732423531962498.png" alt="Md Nure Alom's Discord">
 </p>
 
 <br />
